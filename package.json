@@ -1,6 +1,6 @@
 {
   "name": "react-native-vietnam-currency",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility for formatting and rendering Vietnamese Đồng (₫) currency in React Native apps.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -31,5 +31,10 @@
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "files": [
+    "index.tsx",
+    "index.d.ts",
+    "src/"
+  ]
 }
