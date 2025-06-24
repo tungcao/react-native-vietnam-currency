@@ -1,8 +1,12 @@
 {
   "name": "react-native-vietnam-currency",
   "version": "1.0.3",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/vnd.js",
+  "types": "dist/vnd.d.ts",
+  "files": [
+    "dist",
+    "README.md"
+  ],
   "keywords": [
     "react-native",
     "vietnam",
@@ -11,9 +15,6 @@
     "vnd",
     "money",
     "format"
-  ],
-  "files": [
-    "dist"
   ],
   "scripts": {
     "build": "tsc"
