@@ -1,6 +1,6 @@
 {
   "name": "react-native-vietnam-currency",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/vnd.js",
   "types": "dist/vnd.d.ts",
   "files": [
