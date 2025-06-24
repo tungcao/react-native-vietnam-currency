@@ -24,10 +24,6 @@
     "react-native": ">=0.64.0"
   },
   "license": "MIT",
-  "dependencies": {
-    "react": "^19.1.0",
-    "react-native": "^0.80.0"
-  },
   "devDependencies": {
     "@types/react": "^19.1.8",
     "@types/react-native": "^0.73.0",
