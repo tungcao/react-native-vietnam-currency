@@ -1,0 +1,36 @@
+{
+  "name": "react-native-vietnam-currency",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react-native",
+    "vietnam",
+    "currency",
+    "₫",
+    "vnd",
+    "money",
+    "format"
+  ],
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "react-native": ">=0.64.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-native": "^0.80.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.8.3"
+  },
+  "author": "tungcao"
+}
