@@ -42,8 +42,8 @@ const Vnd: React.FC<VndProps> = ({
     <View
       style={[{ flexDirection: "row", alignItems: "flex-end" }, containerStyle]}
     >
-      <Text style={style}>{formatted}</Text>
-      <Text style={[{ fontSize: 10, marginLeft: 2 }, unitStyle]}>{unit}</Text>
+      <Text style={[style]}>{formatted}</Text>
+      <Text style={[{ fontSize: 10 }, unitStyle]}>{unit}</Text>
     </View>
   );
 };
